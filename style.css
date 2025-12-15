@@ -1,0 +1,65 @@
+body{
+    max-width: 100%;
+}
+
+#header{
+
+    
+    
+    
+
+    border: solid 2px black;
+    background-color:green;
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+#img{
+    border-radius: 50%;
+    padding: 10px;
+    margin-left: -350px;
+    
+    
+}
+#img1{
+    border-radius: 50%;
+    padding: 10px ;
+    margin-right: -350px;
+    
+}
+#formulaire{
+
+
+    border: solid 2px black;
+    background-color:green;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    margin-top: 20px;
+}
+input{
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    width: 300px;
+}
+#tableau{
+    
+    position: relative;
+    border: solid 2px black;
+    background-color:green;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    margin-top: 20px;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: 2px;
+    margin-right: auto;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
